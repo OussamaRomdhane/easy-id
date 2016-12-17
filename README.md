@@ -5,6 +5,6 @@
 ```
 var easyid = require('easy-id');
 easyid.generate();
-// Returns a 24 characters id (base 38)
+// Returns a 24 characters id (base 36ss)
 
 ```
